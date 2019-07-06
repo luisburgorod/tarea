@@ -1,4 +1,4 @@
-proyecto pac-man
+proyecto aplasta cucarachas
 
 integrantes: 
 
@@ -8,6 +8,6 @@ integrantes:
 
 -Diego Sandoval
 
-nuestro proyecto tratara de recrear el juego de pac-man en game maker studio hecho por nosotros, una vez echo hacerlo portable para android, el juego contara con dieseños propios de los escenario, pero respetanco a la esencia del juego
-en nuestra primera junta decidimos crear el juego en gamemaker studio.
+nuestro proyecto tratara de crear un juego en app inventor de aplastar insectos que aparescan en la pantalla ; una vez echo hacerlo portable para android, el juego contara con dieseños propios de los escenario, 
+en nuestra primera junta decidimos crear el juego en app inventor.
 en la segunda junta nos concentramos en la creacion de los sprites, la animacion y calibrar los controles del juego.
